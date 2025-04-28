@@ -1,13 +1,7 @@
 # CS340
 Client/Server Development
 
-
-How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
-
+By writing code that is maintainable and readable, I believe it better helps the develpers adapate and reuse well written code. In the case of these projects, I was able to reuse many of my import commands when setting up my projects as well as when I was importing my Local host, port, username, and password. Making sure to add in line comments help the flow of code as well as correct indents, and proper naming conventions. The advantages allow for projects to not only be understood by other developers, but also as projects progress, allow for a more efficient procress. By keeping the CRUD Python module, I will always be able to reference my queries and even implement them into other projects. 
 
 
-How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
-
-
-What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
-
+I always try to understand the larger picture when given a problem as a developer, or computer scientist. I list out everything that needs to be delivered to the client and I start wil one task at a time. In a like manner this is how I completed the dashboard requirements for the Grazioso Salvare project. I first implemented the data table, the logo and title, then the geolocation, then the pie chart. I did have some issues when making the interactive radio buttons affect the tables, but I think this helped me to understand how to take new approaches and strategies when completing a project. One thing I did not factor in was a testing and debugging/errors, and thus when the errors made my pie chart disappear and the radio buttons not correspond correclty, I did not have the time to go back and work through those errors fully. 
